@@ -1,0 +1,2 @@
+b8005d728f184bf1978332e55d99b88734a0c67fee1a721861d5e71aef4fc237  GKI-Presenter-0.1.12.dmg
+b5ecea8aff07c14e931daae7a574b65ade2404d2f499a0b22e6422ba44a06002  GKI.Presenter_0.1.12_x64-setup.exe
